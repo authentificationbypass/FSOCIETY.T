@@ -1,0 +1,56 @@
+{
+  "name": "fsociety",
+  "displayName": "FSociety",
+  "description": "A pure black, Aura-inspired cyberpunk VS Code theme with neon purple, cyan, pink, and mint accents.",
+  "version": "0.0.3",
+  "publisher": "GibMalFeuerzeugBitte",
+  "icon": "Screenshots/Icon.png",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "black",
+    "fsociety",
+    "FSociety",
+    "Mr. Robot",
+    "Mr Robot",
+    "MrRobot",
+    "Society",
+    "Red Hat",
+    "hacker",
+    "red",
+    "cyber",
+    "editor",
+    "programming"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "FSociety",
+        "uiTheme": "vs-dark",
+        "path": "./themes/fsociety-one-dark-color-theme.json"
+      }
+    ]
+  },
+  "scripts": {
+    "package": "npx @vscode/vsce package",
+    "publish": "npx @vscode/vsce publish"
+  },
+  "devDependencies": {
+    "@vscode/vsce": "^3.6.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/authentificationbypass/FSOCIETY.T.git"
+  },
+  "bugs": {
+    "url": "https://github.com/authentificationbypass/FSOCIETY.T/issues"
+  },
+  "homepage": "https://github.com/authentificationbypass/FSOCIETY.T#readme"
+}
