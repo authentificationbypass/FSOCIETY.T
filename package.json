@@ -2,9 +2,9 @@
   "name": "fsociety",
   "displayName": "FSociety",
   "description": "A pure black, Aura-inspired cyberpunk VS Code theme with neon purple, cyan, pink, and mint accents.",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "publisher": "GibMalFeuerzeugBitte",
-  "icon": "Screenshots/Icon.png",
+  "icon": "pic/Icon.png",
   "license": "MIT",
   "engines": {
     "vscode": "^1.85.0"

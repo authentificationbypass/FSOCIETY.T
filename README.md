@@ -1,6 +1,6 @@
 <h1 align="center">FSociety</h1>
 
-![FSociety Banner](Screenshots/Banner.png)
+![FSociety Banner](pic/Banner.png)
 
 <p align="center">
 	Designed like a signal leaking through concrete.

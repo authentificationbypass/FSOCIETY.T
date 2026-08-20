@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.0.5
+
+- Updated all asset paths to the renamed pic folder
+- Rebuilt the extension package so the marketplace icon is included from pic/Icon.png
+
 ## 0.0.4
 
 - Updated the extension icon asset for the VS Code Marketplace preview
