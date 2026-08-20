@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.0.4
+
+- Updated the extension icon asset for the VS Code Marketplace preview
+- Rebuilt the package so the new icon is included in the VSIX
+
 ## 0.0.2
 
 - Reworked the theme around an Aura-inspired cyberpunk palette
